@@ -7,9 +7,9 @@
 This is an application for managing bookstore.
 
 Entities:
-    Books
-    Authors
-    Orders
+    Books,
+    Authors,
+    Orders,
     BookAuthors-mapping
 
 Service:
